@@ -4,28 +4,28 @@ export default function Gallery() {
   const images = [
     { 
       id: 1, 
-      image: "/burrata.jpg"
+      image: "/clasica.png"
     },
     { 
       id: 2, 
-      image: "/nutella.jpg"
+      image: "/hawaii.jpg"
     },
     { 
       id: 3, 
-      image: "/carpaccio.jpg"
-    },
-    { 
-      id: 4,
-      image: "/gallega.jpg"
-    },
-    { 
-      id: 5, 
-      image: "/stella.jpg"
-    },
-    { 
-      id: 6, 
-      image: "/clasica.png"
+      image: "/sukita.jpg"
     }
+    // { 
+    //   id: 4,
+    //   image: "/gallega.jpg"
+    // },
+    // { 
+    //   id: 5, 
+    //   image: "/stella.jpg"
+    // },
+    // { 
+    //   id: 6, 
+    //   image: "/clasica.png"
+    // }
   ]
 
   return (
