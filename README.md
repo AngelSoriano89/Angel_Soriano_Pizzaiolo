@@ -6,7 +6,7 @@
 
 ¡Visita la versión final y explora mi trabajo!
 
-🔗 **[angelsorianom.netlify.app](https://angelsorianopizzaiolo.netlify.app/)**
+🔗 **[https://angelsorianopizzaiolo.netlify.app/](https://angelsorianopizzaiolo.netlify.app/)**
 
 <img width="1350" height="602" alt="brave_screenshot_angelsorianopizzaiolo netlify app" src="https://github.com/user-attachments/assets/300f65c3-4268-47f3-b5cf-7ba42c11baf9" />
 
